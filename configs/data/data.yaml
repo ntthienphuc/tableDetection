@@ -1,0 +1,6 @@
+names: [box]
+nc: 1
+test: D:\YOLOTable\data\test.txt
+train: D:\YOLOTable\data\train.txt
+val: D:\YOLOTable\data\val.txt
+
